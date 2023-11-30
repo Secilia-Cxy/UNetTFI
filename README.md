@@ -30,7 +30,7 @@ conda activate w4cNew
 ```
 
 ## Generate Submissions
-To generate submissions, execute the following scripts in the repository's root directory, ensuring that the correct GPU index, configuration file, and model checkpoint path are provided:
+To generate submissions, execute the following scripts in the repository's root directory, ensuring that the correct GPU index, configuration file, and model checkpoint path are provided. Model weights can be found in releases.
 
 For the UNetTFI 4-hour prediction on nowcasting dataset:
 ```bash
