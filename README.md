@@ -1,8 +1,8 @@
 # UNetTFI
-The **1st place** solution in [Weather4cast](https://www.weather4cast.org) transfer learning leaderboard
+The **1st place** solution in [Weather4cast](https://weather4cast.net/) transfer learning leaderboard
 ## Overview
 
-This repository contains the code and UNetTFI model used in [Weather4cast](https://www.weather4cast.org) competition,
+This repository contains the code and UNetTFI model used in [Weather4cast](https://weather4cast.net/) competition,
 which achieves the **1st place** in the transfer learning leaderboard.
 It includes trained models, their weights, configurations, and scripts to reproduce our results.
 
