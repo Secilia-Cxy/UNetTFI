@@ -47,7 +47,7 @@ conda activate w4cNew
 ## Generate Submissions
 
 To generate submissions, execute the following scripts in the repository's root directory, ensuring that the correct GPU
-index, configuration file, and model checkpoint path are provided. ![Model weights](https://github.com/Secilia-Cxy/UNetTFI/releases/download/v0/checkpoints.zip) can be found in releases.
+index, configuration file, and model checkpoint path are provided. [Model weights](https://github.com/Secilia-Cxy/UNetTFI/releases/download/v0/checkpoints.zip) can be found in releases.
 
 For the UNetTFI 4-hour prediction on nowcasting dataset:
 
